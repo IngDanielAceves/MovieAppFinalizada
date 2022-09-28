@@ -44,13 +44,4 @@
             android:name="releaseDate"
             app:argType="string" />
     </fragment>
-    <fragment
-        android:id="@+id/fragment_login"
-        android:name="com.example.movieapp.fragment_login"
-        android:label="fragment_login"
-        tools:layout="@layout/fragment_login" >
-        <action
-            android:id="@+id/action_fragment_login_to_movieFragment"
-            app:destination="@id/movieFragment" />
-    </fragment>
 </navigation>
