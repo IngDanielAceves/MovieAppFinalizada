@@ -7,6 +7,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Eduardo/AndroidStudioProjects/MovieApp-master/app/src/main/res/drawable/ic_baseline_language_24.xml" value="0.1" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/MovieApp-master/app/src/main/res/font/abeezee.xml" value="0.2765625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/MovieApp-master/app/src/main/res/font/abel.xml" value="0.2765625" />
         <entry key="..\:/Users/Eduardo/AndroidStudioProjects/MovieApp-master/app/src/main/res/layout/activity_login.xml" value="0.3546875" />
         <entry key="..\:/Users/Eduardo/AndroidStudioProjects/MovieApp-master/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
         <entry key="..\:/Users/Eduardo/AndroidStudioProjects/MovieApp-master/app/src/main/res/layout/fragment_login.xml" value="0.3546875" />
