@@ -9,7 +9,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.movieapp"
+        applicationId "com.aceves.movieapp"
 
         minSdkVersion 26
         targetSdkVersion 33

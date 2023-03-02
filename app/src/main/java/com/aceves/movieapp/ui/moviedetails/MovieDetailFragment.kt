@@ -4,9 +4,10 @@ import android.os.Bundle
 import android.view.View
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.navArgs
+import com.aceves.movieapp.R
+import com.aceves.movieapp.databinding.FragmentMovieDetailBinding
 import com.bumptech.glide.Glide
-import com.example.movieapp.R
-import com.example.movieapp.databinding.FragmentMovieDetailBinding
+
 
 
 class MovieDetailFragment : Fragment(R.layout.fragment_movie_detail) {

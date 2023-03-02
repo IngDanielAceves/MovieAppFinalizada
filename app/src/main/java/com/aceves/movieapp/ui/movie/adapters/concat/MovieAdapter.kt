@@ -8,7 +8,8 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.aceves.movieapp.core.BaseViewHolder
 import com.aceves.movieapp.data.model.Movie
-import com.example.movieapp.databinding.MovieItemBinding
+import com.aceves.movieapp.databinding.MovieItemBinding
+
 
 class MovieAdapter(
     private val moviesList: List<Movie>,

@@ -3,7 +3,8 @@ package com.aceves.movieapp.ui
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.movieapp.R
+import com.aceves.movieapp.R
+
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

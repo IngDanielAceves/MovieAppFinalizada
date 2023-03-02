@@ -8,11 +8,11 @@ import androidx.fragment.app.viewModels
 
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.ConcatAdapter
-import com.example.movieapp.R
+import com.aceves.movieapp.R
 import com.aceves.movieapp.core.Resource
 import com.aceves.movieapp.data.model.Movie
 import com.aceves.movieapp.data.remote.MovieDataSource
-import com.example.movieapp.databinding.FragmentMovieBinding
+import com.aceves.movieapp.databinding.FragmentMovieBinding
 import com.aceves.movieapp.presentation.MovieViewModel
 import com.aceves.movieapp.presentation.MovieViewModelFactory
 import com.aceves.movieapp.repository.MovieRepositoryImpl

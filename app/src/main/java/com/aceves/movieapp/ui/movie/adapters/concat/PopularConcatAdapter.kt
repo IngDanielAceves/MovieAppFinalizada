@@ -4,7 +4,8 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.aceves.movieapp.core.BaseConcatHolder
-import com.example.movieapp.databinding.PopularMoviesRowBinding
+import com.aceves.movieapp.databinding.PopularMoviesRowBinding
+
 
 class PopularConcatAdapter(private val moviesAdapter: MovieAdapter): RecyclerView.Adapter<BaseConcatHolder<*>>() {
 
