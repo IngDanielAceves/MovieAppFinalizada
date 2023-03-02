@@ -16,6 +16,7 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <ImageView
+            android:contentDescription="@desc"
             android:id="@+id/img_background"
             android:layout_width="match_parent"
             android:layout_height="250dp" />
@@ -40,6 +41,7 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <ImageView
+            android:contentDescription="@movie_desc"
             android:id="@+id/img_movie"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -124,6 +126,7 @@
         app:layout_constraintTop_toBottomOf="@+id/frameLayout">
 
         <ImageView
+            android:contentDescription="@movie_desc"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/ic_baseline_bookmark_border_24" />
@@ -150,6 +153,7 @@
 
 
         <ImageView
+            android:contentDescription="@movie_desc"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/ic_baseline_favorite_border_24" />
@@ -174,7 +178,7 @@
 
 
         <ImageView
-
+            android:contentDescription="@movie_desc"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/ic_baseline_share_24" />
